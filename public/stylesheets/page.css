@@ -1,0 +1,117 @@
+.text-home{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 3vw;
+}
+.navbar-nav{
+    margin-left:1em;
+}
+.dropdown-menu {
+    margin-left: -5em;
+}
+
+.carousel-item{
+    transition: .1s;
+}
+.carousel-inner{
+    border-radius: 2em;
+}
+.carousel-caption {
+    bottom: .5em;
+}
+.carousel-caption{
+    text-align: unset;
+}
+.top-quote-one{
+    font-weight: 800;
+    color: aliceblue;
+    padding-right: 1em;
+    font-size: 5vw;
+}
+.quotes-one{
+    font-size: 2vw;
+}
+.top-quote-two{
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    padding-right: 1em;
+    font-size: 5vw;
+    
+
+}
+.quotes-two{
+    font-size: 2vw;
+    color: rgb(255, 255, 255);
+}
+
+
+.cnnect-img{
+   
+    border-radius: 2em;
+}
+.contact-caption{
+    padding-bottom: 3em;
+    font-size: 2vw;
+    
+}
+.contact-main{
+    padding-top: 5em;
+}
+
+.contact-caption-sm{
+    padding-bottom: 1.5em;
+    font-size: 4vw;
+    font-weight: 900;
+    text-align: center;
+}
+.cnnect-img-sm {
+    border-radius: 2em;
+    width: 32em;
+    height: 7em;
+}
+.services{
+    padding-top: 5em;
+}
+.services-head{
+    font-size: 3vw;
+    padding-top: 1em;
+}
+.card{
+    border-radius: 2em;
+}
+.card-img-top{
+    border-radius:2em;
+}
+.card-text{
+    font-weight: 900;
+    font-size: 2vw;
+}
+.head{
+    padding-left: 1em;
+}
+.services{
+    padding-bottom: 8em;
+}
+.form-setup{
+    padding-top: 1em;
+    padding-bottom:  5.5em;
+  
+}
+.top-show{
+    padding-top: 5em;
+}
+.head-contact{
+    font-size: 3vw;
+}
+.navbar-toggler{
+    border: none;
+}
+.footer{
+width: 100%;
+height: 5em;
+background: rgb(248, 248, 248);
+}
+.copyrights{
+    padding-top: 1em;
+    color: rgba(0, 0, 0, 0.415);
+    font-size: .8em;
+}
